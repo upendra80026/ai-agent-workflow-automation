@@ -1,0 +1,9 @@
+product_id,sku,name,category,current_stock,minimum_stock,reorder_batch_size,unit_cost
+PRD-001,SKU-CHAIR-01,Ergonomic Mesh Office Chair,Furniture,4,15,20,120.0
+PRD-002,SKU-KB-01,Wireless Mechanical Keyboard (RGB),Peripherals,2,20,30,45.0
+PRD-003,SKU-HUB-01,USB-C 8-in-1 Multiport Hub,Accessories,8,25,40,22.5
+PRD-004,SKU-MON-01,27-inch 4K UHD IPS Monitor,Displays,35,10,15,210.0
+PRD-005,SKU-MOU-01,Precision Ergonomic Wireless Mouse,Peripherals,50,15,25,28.0
+PRD-006,SKU-DESK-01,Motorized Standing Desk Frame,Furniture,3,10,10,240.0
+PRD-007,SKU-HEAD-01,Active Noise-Cancelling Headphones,Audio,18,12,20,85.0
+PRD-008,SKU-LAMP-01,LED Monitor Light Bar with Remote,Lighting,5,18,25,32.0

@@ -1,0 +1,22 @@
+[
+  {
+    "refund_id": "REF-501",
+    "order_id": "ORD-1002",
+    "customer_email": "tony.stark@example.com",
+    "amount": 399.99,
+    "reason": "Defective item upon arrival",
+    "days_since_purchase": 5,
+    "policy_max_days": 30,
+    "auto_approved": true
+  },
+  {
+    "refund_id": "REF-502",
+    "order_id": "ORD-1001",
+    "customer_email": "sarah.connor@example.com",
+    "amount": 289.98,
+    "reason": "Buyer remorse after 45 days",
+    "days_since_purchase": 45,
+    "policy_max_days": 30,
+    "auto_approved": false
+  }
+]

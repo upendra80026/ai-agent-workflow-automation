@@ -1,0 +1,55 @@
+{
+  "TRK-FEDEX-99214": {
+    "tracking_id": "TRK-FEDEX-99214",
+    "carrier": "FedEx Express",
+    "service_level": "2-Day Priority",
+    "shipment_status": "Out for Delivery",
+    "origin": "Memphis, TN Hub",
+    "destination": "Los Angeles, CA",
+    "estimated_delivery": "2026-10-14 by 4:30 PM",
+    "history": [
+      {
+        "timestamp": "2026-10-11 08:30:00",
+        "location": "Memphis, TN",
+        "status": "Package picked up"
+      },
+      {
+        "timestamp": "2026-10-12 14:15:00",
+        "location": "Fort Worth, TX",
+        "status": "In transit through regional sort facility"
+      },
+      {
+        "timestamp": "2026-10-13 06:45:00",
+        "location": "Los Angeles, CA",
+        "status": "Arrived at local distribution center"
+      },
+      {
+        "timestamp": "2026-10-13 08:00:00",
+        "location": "Los Angeles, CA",
+        "status": "On FedEx vehicle for delivery"
+      }
+    ]
+  },
+  "TRK-UPS-88123": {
+    "tracking_id": "TRK-UPS-88123",
+    "carrier": "UPS Ground",
+    "service_level": "Ground",
+    "shipment_status": "Delivered",
+    "origin": "Louisville, KY Hub",
+    "destination": "Malibu, CA",
+    "delivered_at": "2026-10-09 11:42:00",
+    "signed_by": "J.A.R.V.I.S.",
+    "history": [
+      {
+        "timestamp": "2026-10-07 10:00:00",
+        "location": "Louisville, KY",
+        "status": "Shipped"
+      },
+      {
+        "timestamp": "2026-10-09 11:42:00",
+        "location": "Malibu, CA",
+        "status": "Delivered at front porch"
+      }
+    ]
+  }
+}

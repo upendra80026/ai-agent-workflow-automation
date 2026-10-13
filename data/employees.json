@@ -1,0 +1,88 @@
+[
+  {
+    "id": "EMP-001",
+    "name": "Aarav Sharma",
+    "role": "Senior Fullstack Developer",
+    "skills": [
+      "Python",
+      "FastAPI",
+      "React",
+      "Docker",
+      "PostgreSQL",
+      "LangChain"
+    ],
+    "current_workload_hours": 26,
+    "max_capacity_hours": 40,
+    "available_hours": 14,
+    "status": "Available"
+  },
+  {
+    "id": "EMP-002",
+    "name": "Priya Patel",
+    "role": "Lead AI Engineer",
+    "skills": [
+      "Python",
+      "LLM",
+      "LangChain",
+      "LangGraph",
+      "PyTorch",
+      "NLP",
+      "Prompt Engineering"
+    ],
+    "current_workload_hours": 32,
+    "max_capacity_hours": 40,
+    "available_hours": 8,
+    "status": "Available"
+  },
+  {
+    "id": "EMP-003",
+    "name": "Vikram Malhotra",
+    "role": "Backend Architect",
+    "skills": [
+      "Python",
+      "Go",
+      "Kubernetes",
+      "Microservices",
+      "Kafka",
+      "Redis"
+    ],
+    "current_workload_hours": 39,
+    "max_capacity_hours": 40,
+    "available_hours": 1,
+    "status": "Near Capacity"
+  },
+  {
+    "id": "EMP-004",
+    "name": "Ananya Roy",
+    "role": "Frontend Specialist",
+    "skills": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "TailwindCSS",
+      "UI/UX",
+      "State Management"
+    ],
+    "current_workload_hours": 20,
+    "max_capacity_hours": 40,
+    "available_hours": 20,
+    "status": "Available"
+  },
+  {
+    "id": "EMP-005",
+    "name": "Rohan Deshmukh",
+    "role": "DevOps & Cloud Engineer",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "CI/CD",
+      "Docker",
+      "Linux",
+      "Security"
+    ],
+    "current_workload_hours": 40,
+    "max_capacity_hours": 40,
+    "available_hours": 0,
+    "status": "Fully Booked"
+  }
+]

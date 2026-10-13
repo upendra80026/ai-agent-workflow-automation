@@ -1,0 +1,12 @@
+vendor_sku,product_name,category,wholesale_price,stock_qty,lead_time_days
+VND-101,Anodized Aluminum Laptop Stand,Accessories,28.5,140,5
+VND-102,Braided Thunderbolt 4 Cable 2m,Cables,19.99,350,3
+,Missing SKU Headphone Stand,Accessories,14.0,80,7
+VND-104,Ultra-Wide Gaming Mouse Pad,Accessories,11.2,210,4
+VND-105,,Power,34.0,65,6
+VND-106,Magnetic Wireless MagSafe Charger,Charging,22.0,180,5
+VND-107,Under-Desk Cable Management Tray,Organization,-5.0,90,3
+,Another Null SKU Item,Peripherals,45.0,20,10
+VND-109,Noise Isolating Foam Ear Tips (3-Pack),Audio,6.5,500,2
+VND-110,,Displays,89.0,30,8
+VND-111,Dual Monitor Desk Mount Arm,Furniture,64.0,45,5

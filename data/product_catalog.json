@@ -1,0 +1,74 @@
+[
+  {
+    "id": "PROD-101",
+    "sku": "SKU-AUDIO-XM5-BLK",
+    "name": "Sony WH-1000XM5 Wireless Noise-Canceling Headphones - Black",
+    "category": "Headphones",
+    "brand": "Sony",
+    "price": 398.0,
+    "description": "Premium wireless over-ear headphones with industry-leading noise cancelation, 30-hour battery life, and crystal clear hands-free calling."
+  },
+  {
+    "id": "PROD-102",
+    "sku": "SKU-AUDIO-XM5-BLK",
+    "name": "Sony WH-1000XM5 Wireless Headphones (Black)",
+    "category": "Headphones",
+    "brand": "Sony",
+    "price": 399.99,
+    "description": "Sony WH-1000XM5 over ear noise cancelling bluetooth headphones black."
+  },
+  {
+    "id": "PROD-103",
+    "sku": "SKU-AUDIO-XM5-SLV",
+    "name": "Sony WH-1000XM5 Wireless Noise-Canceling Headphones - Silver",
+    "category": "Headphones",
+    "brand": "Sony",
+    "price": 398.0,
+    "description": "Premium wireless over-ear headphones in elegant silver finish with dual processor noise canceling."
+  },
+  {
+    "id": "PROD-104",
+    "sku": "SKU-LOGI-MXM3S",
+    "name": "Logitech MX Master 3S Performance Wireless Mouse",
+    "category": "Mice",
+    "brand": "Logitech",
+    "price": 99.99,
+    "description": "Quiet click wireless ergonomic mouse with 8K DPI sensor for Mac and Windows."
+  },
+  {
+    "id": "PROD-105",
+    "sku": "SKU-LOGI-MXM3S-GRY",
+    "name": "Logitech MX Master 3S Wireless Mouse - Pale Grey",
+    "category": "Mice",
+    "brand": "Logitech",
+    "price": 99.99,
+    "description": "Logitech MX Master 3S quiet clicks ergonomic bluetooth wireless mouse pale grey 8000 DPI."
+  },
+  {
+    "id": "PROD-106",
+    "sku": "SKU-APPL-MBP16-M3",
+    "name": "Apple MacBook Pro 16-inch M3 Max (36GB RAM, 1TB SSD) Space Black",
+    "category": "Laptops",
+    "brand": "Apple",
+    "price": 3499.0,
+    "description": "Liquid Retina XDR display, M3 Max chip with 14-core CPU and 30-core GPU."
+  },
+  {
+    "id": "PROD-107",
+    "sku": "SKU-APPL-MBP-16M3MAX",
+    "name": "Apple 16-Inch MacBook Pro M3 Max 36GB / 1TB SSD Space Black",
+    "category": "Laptops",
+    "brand": "Apple",
+    "price": 3499.0,
+    "description": "Apple 16\" MacBook Pro notebook with Apple M3 Max processor, 36GB unified memory, 1TB solid state drive."
+  },
+  {
+    "id": "PROD-108",
+    "sku": "SKU-CHAIR-HERMAN",
+    "name": "Herman Miller Aeron Ergonomic Chair - Size B Carbon",
+    "category": "Chairs",
+    "brand": "Herman Miller",
+    "price": 1495.0,
+    "description": "Ergonomic icon with PostureFit SL back support, breathable pellicle mesh, and fully adjustable arms."
+  }
+]

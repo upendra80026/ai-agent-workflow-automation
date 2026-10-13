@@ -1,0 +1,65 @@
+{
+  "ORD-1001": {
+    "order_id": "ORD-1001",
+    "customer_email": "sarah.connor@example.com",
+    "customer_name": "Sarah Connor",
+    "order_date": "2026-10-10",
+    "status": "In Transit",
+    "currency": "USD",
+    "total_amount": 289.98,
+    "items": [
+      {
+        "sku": "SKU-KB-01",
+        "name": "Wireless Mechanical Keyboard (RGB)",
+        "quantity": 1,
+        "unit_price": 79.99
+      },
+      {
+        "sku": "SKU-MON-01",
+        "name": "27-inch 4K UHD IPS Monitor",
+        "quantity": 1,
+        "unit_price": 209.99
+      }
+    ],
+    "shipping_address": "104 Cyberdyne Way, Los Angeles, CA 90001",
+    "shipment_tracking_id": "TRK-FEDEX-99214"
+  },
+  "ORD-1002": {
+    "order_id": "ORD-1002",
+    "customer_email": "tony.stark@example.com",
+    "customer_name": "Tony Stark",
+    "order_date": "2026-10-06",
+    "status": "Delivered",
+    "currency": "USD",
+    "total_amount": 399.99,
+    "items": [
+      {
+        "sku": "SKU-DESK-01",
+        "name": "Motorized Standing Desk Frame",
+        "quantity": 1,
+        "unit_price": 399.99
+      }
+    ],
+    "shipping_address": "10880 Malibu Point, Malibu, CA 90265",
+    "shipment_tracking_id": "TRK-UPS-88123"
+  },
+  "ORD-1003": {
+    "order_id": "ORD-1003",
+    "customer_email": "peter.parker@example.com",
+    "customer_name": "Peter Parker",
+    "order_date": "2026-10-13",
+    "status": "Processing",
+    "currency": "USD",
+    "total_amount": 49.99,
+    "items": [
+      {
+        "sku": "SKU-HUB-01",
+        "name": "USB-C 8-in-1 Multiport Hub",
+        "quantity": 1,
+        "unit_price": 49.99
+      }
+    ],
+    "shipping_address": "20 Ingram St, Forest Hills, NY 11375",
+    "shipment_tracking_id": null
+  }
+}
